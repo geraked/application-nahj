@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">نهج البلاغه</string>
+    <string name="search">جستجو</string>
+    <string name="search_in_title">جستجو در عنوان</string>
+    <string name="home">خانه</string>
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="about">درباره ما</string>
+    <string name="settings">تنظیمات</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="wisdoms">حکمت‌ها</string>
+    <string name="wisdom">حکمت</string>
+    <string name="sermons">خطبه‌ها</string>
+    <string name="sermon">خطبه</string>
+    <string name="letters">نامه‌ها</string>
+    <string name="letter">نامه</string>
+    <string name="strange_words">کلمات غریب</string>
+    <string name="strange_word">کلمه غریب</string>
+    <string name="about_book">درباره کتاب و ترجمه</string>
+    <string name="about_book_short">درباره کتاب</string>
+    <string name="copy">کپی</string>
+    <string name="add_to_favorites">افزودن به علاقه‌مندی‌ها</string>
+    <string name="unadd_to_favorites">خارج کردن از علاقه‌مندی‌ها</string>
+    <string name="text_size">اندازه متن</string>
+    <string name="button_default">پیشفرض</string>
+    <string name="send_to">ارسال با</string>
+    <string name="app_rate">امتیاز دادن به برنامه</string>
+
+    <string name="text_view">متن آزمایشی</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#388e3c</color>
+    <color name="colorPrimaryDark">#2E7D32</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="colorNightPrimaryLight">#455A64</color>
+    <color name="colorNightPrimary">#37474F</color>
+    <color name="colorNightPrimaryDark">#263238</color>
+    <color name="colorNightAccent">#ff4081</color>
+
+    <color name="colorDarkFont">#616161</color>
+    <color name="colorLightFont">#fafafa</color>
+
+    <color name="colorWisdoms">#8E24AA</color>
+    <color name="colorWisdomsDark">#6A1B9A</color>
+
+    <color name="colorSermons">#00897b</color>
+    <color name="colorSermonsDark">#00695c</color>
+
+    <color name="colorLetters">#f4511e</color>
+    <color name="colorLettersDark">#d84315</color>
+
+    <color name="colorStranges">#1e88e5</color>
+    <color name="colorStrangesDark">#1565c0</color>
+
+    <color name="colorAbout">#ec407a</color>
+    <color name="colorAboutDark">#d81b60</color>
+</resources>
