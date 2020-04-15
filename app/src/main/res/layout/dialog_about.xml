@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="256dp"
     android:layout_height="128dp"
+    android:gravity="center"
     android:orientation="vertical">
 
 
@@ -10,6 +11,7 @@
         android:id="@+id/imageView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:contentDescription="@string/app_name"
         app:srcCompat="@drawable/geraked_logo" />
 </LinearLayout>

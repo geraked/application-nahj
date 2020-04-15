@@ -200,16 +200,17 @@ public class MainActivity extends AppCompatActivity
             Dialog dialog = new Dialog(this);
             dialog.setContentView(R.layout.dialog_about);
             dialog.show();
-        } else if (id == R.id.nav_rate) {
-            try {
-                Intent intent = new Intent(Intent.ACTION_EDIT);
-                intent.setData(Uri.parse("bazaar://details?id=" + "ir.geraked.nahj"));
-                intent.setPackage("com.farsitel.bazaar");
-                startActivity(intent);
-            } catch (Exception e) {
-                Toast.makeText(this, "خطا", Toast.LENGTH_SHORT).show();
-            }
         }
+//        else if (id == R.id.nav_rate) {
+//            try {
+//                Intent intent = new Intent(Intent.ACTION_EDIT);
+//                intent.setData(Uri.parse("bazaar://details?id=" + "ir.geraked.nahj"));
+//                intent.setPackage("com.farsitel.bazaar");
+//                startActivity(intent);
+//            } catch (Exception e) {
+//                Toast.makeText(this, "خطا", Toast.LENGTH_SHORT).show();
+//            }
+//        }
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);

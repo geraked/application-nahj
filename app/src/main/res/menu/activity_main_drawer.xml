@@ -16,10 +16,10 @@
             android:id="@+id/nav_about"
             android:icon="@drawable/ic_about"
             android:title="@string/about" />
-        <item
-            android:id="@+id/nav_rate"
-            android:icon="@drawable/ic_rate"
-            android:title="@string/app_rate" />
+<!--        <item-->
+<!--            android:id="@+id/nav_rate"-->
+<!--            android:icon="@drawable/ic_rate"-->
+<!--            android:title="@string/app_rate" />-->
     </group>
 
     <!--<item android:title="Communicate">
