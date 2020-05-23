@@ -9,7 +9,8 @@ It's a simple book app created with Android Studio. Source of the project is ava
 ![screenshot](docs/screenshot.jpg)
 
 ## Release
-View on [Myket](https://myket.ir/app/ir.geraked.nahj).
+- View on [APKPure](https://apkpure.com/p/ir.geraked.nahj).
+- View on [Myket](https://myket.ir/app/ir.geraked.nahj).
 
 ## Author
 **Rabist** - view on [LinkedIn](https://www.linkedin.com/in/rabist)
